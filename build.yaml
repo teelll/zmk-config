@@ -13,32 +13,8 @@
 #
 ---
 include:
-  - board: nrfmicro_13
+  - board: nice_nano_v2
     shield: [jorne_left, jorne_right]
-    name: ["Jorne Blues", "Jorne Brass"]
+    name: ["Jorne Blues"]
     flags: ["screen"]
-  - board: nrfmicro_13_52833
-    shield: [jorne_left, jorne_right]
-    name: ["Sporne"]
-    flags: ["screen", "mem_constraint"]
-  - board: nrfmicro_13_52833
-    shield: [jorne_left, jorne_right]
-    name: ["RT-22"]
-  - board: nrfmicro_13_52833
-    shield: radpad
-  - board: [jorian840_left, jorian840_right]
-    name: ["Jorian840 Omron", "Jorian840 Cobalt", "wEnki44"]
-    flags: ["studio"]
-  - board: [skean_left, skean_right]
-    name: ["Skean T1", "Skean Alps", "Skean DG", "Skean MA", "Skean Zilent", "Skean i-Rocks", "Skean SKCC"]
-    flags: ["studio"]
-  - board: [dao_left, dao_right]
-  - board: [corneish_zen_v1_left, corneish_zen_v1_right]
-    name: ["Zen gChoc"]
-    flags: ["studio"]
-  - board: [corneish_zen_v2_left, corneish_zen_v2_right]
-    name: ["Zen Sunset"]
-    flags: ["studio"]
-  - board: seeeduino_xiao_ble
-    shield: [ergonaut_one_left, ergonaut_one_right]
-    flags: ["studio"]
+
