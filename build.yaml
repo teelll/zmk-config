@@ -18,3 +18,8 @@ include:
     name: ["Jorne Blues"]
     flags: ["screen"]
 
+  - board: nice_nano_v2
+    shield: [jorne_left, jorne_right]
+    name: ["Jorne"]
+   
+
