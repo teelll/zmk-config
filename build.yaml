@@ -14,10 +14,10 @@
 ---
 include:
 
-  - board: nrfmicro_13_52833
+  - board: nice_nano
     shield: [jorne_left, jorne_right]
     name: ["Sporne"]
-  - board: nrfmicro_13_52833
+  - board: nice_nano
     shield: [jorne_left, jorne_right]
     name: ["RT-22"]
 
