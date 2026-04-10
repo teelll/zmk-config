@@ -19,3 +19,5 @@ include:
   - board: nrf52840
     shield: [jorne_left, jorne_right]
     name: ["RT-22"]
+  - board: nrf52840
+    shield: settings_reset
